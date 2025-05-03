@@ -1,0 +1,35 @@
+generations:
+  - name: "First Generation"
+    start_year: 1981
+    end_year: 1986
+    description: "The original Honda City was a subcompact hatchback significantly different from later models bearing the name. Featuring distinctive 'tallboy' styling that maximized interior space within a minimal footprint (under 3.4 meters long), it was designed specifically for congested Japanese urban environments. Powered by small but efficient engines including a 1.2L CVCC unit, it emphasized fuel economy and maneuverability. A notable variant was the Turbo, which added a turbocharged engine producing 100 HP—impressive for its time and size. The Motocompo, a folding scooter designed to fit in the City's trunk, was an innovative accessory. This generation established the City nameplate but bears little resemblance to the sedan models that would later use the name globally."
+
+  - name: "Second Generation"
+    start_year: 1986
+    end_year: 1994
+    description: "The second-generation City continued as a Japan-focused model but with more conventional styling that abandoned the 'tallboy' concept for a lower, sportier profile. Available in hatchback and convertible body styles, it catered to a more youthful demographic. Engine options included various 1.2L and 1.3L units, with performance variants like the CR-i featuring more powerful DOHC engines. This generation maintained the City's focus on the Japanese market and continued to be a subcompact hatchback rather than the sedan body style that would later define the nameplate globally."
+
+  - name: "Third Generation"
+    start_year: 1996
+    end_year: 2002
+    description: "The third-generation marked a fundamental shift for the City nameplate, transforming from a Japan-market hatchback to a subcompact sedan designed primarily for emerging Asian markets. Developed specifically for markets like Thailand and the Philippines, it featured conventional three-box sedan styling. Powered by a 1.3L SOHC engine, it emphasized affordability, reliability, and fuel efficiency. This generation established the template for the City as Honda's entry-level sedan for developing markets—a positioning that continues to the present day."
+
+  - name: "Fourth Generation"
+    start_year: 2002
+    end_year: 2008
+    description: "The fourth-generation City continued as a subcompact sedan for Asian markets but with more sophisticated styling and engineering. Featuring a more aerodynamic design with a distinctive front end, it grew slightly in dimensions. Engine options typically included 1.3L and 1.5L i-DSI units known for excellent fuel efficiency. The interior offered improved quality and design with better features than its predecessor. This generation expanded the City's market presence across Asia and parts of the Middle East, establishing it as an important global model for Honda despite not being sold in Japan, Europe, or North America."
+
+  - name: "Fifth Generation"
+    start_year: 2008
+    end_year: 2013
+    description: "The fifth-generation City adopted Honda's 'Advanced Sports Sedan' concept with more dynamic styling and increased dimensions that positioned it between the subcompact and compact segments. Powered primarily by a 1.5L i-VTEC engine, it offered improved performance along with good fuel efficiency. The interior featured a more premium design with better materials and technology, including available paddle shifters and a modern audio system. This generation further established the City as a aspirational yet accessible sedan in emerging markets, offering near-Civic levels of space and features at a lower price point."
+
+  - name: "Sixth Generation"
+    start_year: 2013
+    end_year: 2019
+    description: "The sixth-generation City featured more sophisticated styling with stronger character lines and a prominent chrome grille. Slightly larger than its predecessor, it offered impressive interior space approaching that of compact sedans. Powered by refined 1.5L engines—including a new Earth Dreams direct-injection unit in some markets—it balanced performance and efficiency. The interior saw significant improvements in design, materials, and technology, with features like touchscreen infotainment systems and rearview cameras available on higher trims. This generation expanded the City's market reach and enhanced its position as a premium offering in the subcompact sedan segment across Asia, the Middle East, and parts of South America."
+
+  - name: "Seventh Generation"
+    start_year: 2020
+    end_year: null
+    description: "The current City features the most sophisticated design in the nameplate's history, with a longer, wider body and bold styling that closely resembles the larger Civic and Accord. For the first time, a hatchback variant (called City Hatchback in most markets) was introduced to replace the Jazz/Fit in some regions. Powered primarily by an updated 1.5L DOHC i-VTEC engine, with hybrid options available in select markets using Honda's compact e:HEV system. The interior represents a significant advancement with higher quality materials, a more premium design, and modern technology including an 8-inch touchscreen with smartphone connectivity and a digital instrument cluster in higher trims. Safety features have been substantially upgraded with Honda Sensing available on premium versions, offering features like adaptive cruise control and autonomous emergency braking. This generation elevates the City from its entry-level positioning to a more sophisticated offering that bridges the gap between subcompact and compact segments, reflecting increasing consumer expectations in developing markets."
