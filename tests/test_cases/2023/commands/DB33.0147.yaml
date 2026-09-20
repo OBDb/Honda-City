@@ -1,0 +1,17 @@
+command_id: DB33.0147
+test_cases:
+- expected_values:
+    TP_B: 12.15686
+  response: 18DAF10E0341471F
+- expected_values:
+    TP_B: 14.11765
+  response: 18DAF11003414724
+- expected_values:
+    TP_B: 14.90196
+  response: 18DAF11003414726
+- expected_values:
+    TP_B: 17.2549
+  response: 18DAF1100341472C
+- expected_values:
+    TP_B: 20.39216
+  response: 18DAF11003414734
